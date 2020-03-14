@@ -1,3 +1,11 @@
+### DotNet core Commands
+* dotnet new -h
+* dotnet new gitignore
+* dotnet new console 
+* dotnet new console --name="myFirstCoreApp"
+* dotnet run// dotnet build is automatically called
+* dotnet add package  newtonsoft.json* 
+
 # ASP.Net Core by Shawn Widermuth
 _Goal:_ 
 1. core2.1 
